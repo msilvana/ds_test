@@ -1,6 +1,9 @@
 Rencana Konten Coding :
 1. Bikin content PHP
    Looping for php
+2. Content Javascript
+   ES6 ES6+ detail
+3. Content CSS 
    belajar Laravel
 2. Content Javascript
    ES6 ES6+ detail
@@ -8,4 +11,4 @@ Rencana Konten Coding :
 3. Content CSS
 4. Fundamental Data Structure
 5. Phyton
-6. Menambahkan React
+6. Menambahkan React 
