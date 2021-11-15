@@ -1,4 +1,6 @@
 Rencana Konten Coding :
 1. Bikin content PHP
+   Looping for php
 2. Content Javascript
+   ES6 ES6+ detail
 3. Content CSS
