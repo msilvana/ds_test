@@ -3,6 +3,7 @@ Rencana Konten Coding :
    Looping for php
 2. Content Javascript
    ES6 ES6+ detail
+   Angular
 3. Content CSS 
    belajar Laravel
 2. Content Javascript
