@@ -4,3 +4,4 @@ Rencana Konten Coding :
 2. Content Javascript
    ES6 ES6+ detail
 3. Content CSS
+4. Fundamental Data Structure
